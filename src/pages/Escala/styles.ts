@@ -7,14 +7,7 @@ export const Section = styled.section`
   align-items: center;
   justify-content: center;
   img {
-    height:50%;
-    width: 43%; 
-  }
-
-  p{
-    padding-left: 1rem;
-    font-size: xx-large;
-    color: ${colors.white};
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100%;
+    width: 100%; 
   }
 `

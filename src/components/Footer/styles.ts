@@ -5,7 +5,7 @@ import { colors } from "../../styles/GlobalStyle"
 export const Footer = styled.footer`
   /* Rodapé */
   display: flex;
-  background-color: ${colors.black};
+  background-color: ${colors.secondary};
   height: 3rem;
   img {
     height: 100%;

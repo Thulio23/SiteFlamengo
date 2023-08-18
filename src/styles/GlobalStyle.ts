@@ -10,12 +10,8 @@ export const GlobalStyle = createGlobalStyle`
   }
 `
 export const colors = {
-  primary: "#2B75E2",
-  secondary: "#FFC107",
-  secondaryLight: "#605A5A",
-  third: "#78909C",
-  thirdLight: "#d9d9d9",
+  primary: "#C12626",
+  secondary: "#2B2424",
   black: "#000",
   white: "#fff"
-
 }

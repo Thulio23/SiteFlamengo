@@ -1,3 +1,3 @@
 export { Home as PageHome } from "./Home"
-export { List as PageList } from "./List"
+export { Escala as PageEscala } from "./Escala"
 export { Layout as PageLayout } from "./Layout"

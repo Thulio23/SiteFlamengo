@@ -3,11 +3,11 @@ import { colors } from "../../styles/GlobalStyle"
 
 export const Header = styled.header`
   /* Cabeçalho */
-  border-bottom: 0.4rem solid ${colors.white};
+  border-bottom: 0.4rem solid ${colors.primary};
   display: flex;
   height: 6rem;
   width:100%;
-  background-color: ${colors.red};
+  background-color: ${colors.primary};
   picture {
     margin-left: 0.5rem;
     padding: 0.5rem;
@@ -36,11 +36,8 @@ export const NavBar = styled.nav`
       a {
         font-size: large;
         text-decoration: none;
-        color: ${colors.white };
+        color: ${colors.white};
       }
-    }
-    li:hover {
-      background-color: ${colors.secondaryLight};
     }
   }
 
